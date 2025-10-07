@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working as a Solutions Engineer at Qase!
+- 🔭 I’m currently looking for Software Development Roles
 - 🌱 I’m currently learning Software Development at Boston University Metropolitan College. 
 - 👯 I’m looking to collaborate on open source projects related to Security, AI, and iOS Development.
 - 🤔 I’m looking for help with having a clean and well structured Portfolio and great online presence.
